@@ -4,9 +4,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-body {
-  background: #081b29;
-}
+
 .container h2 span {
   color: #0ef;
 }
